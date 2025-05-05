@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "",
+  "pdflatex": "C:\\Users\\DarkF\\AppData\\Local\\MiKTeX\\miktex\\log\\makefmt\\pdflatex",
+  "outputFolder": "C:\\Users\\DarkF\\Mathematics Notes",
+  "extraArguments": "",
+  "exportFrom": "html"
+}

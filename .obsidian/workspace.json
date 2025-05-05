@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "0aac2dac38fcd2f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "32cdfeea2a9dbf15",
+        "type": "split",
+        "children": [
+          {
+            "id": "2d30b418cbf38622",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c8a58959baa5ef4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Wiki/Papers/Scalable Semidefinite Programming/Notes on Sketchy CGAL.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Notes on Sketchy CGAL"
+                },
+                "group": "ece4b1bee9950d77"
+              }
+            ]
+          },
+          {
+            "id": "946bea5a2f583781",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "018881ea6b165394",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Wiki/Papers/Scalable Semidefinite Programming/Notes on Sketchy CGAL.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Notes on Sketchy CGAL"
+                },
+                "group": "ece4b1bee9950d77"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "7f0611df5ff37066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec5beee98bd72cf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Wiki/Papers/Scalable Semidefinite Programming/Sketchy-CGAL.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Sketchy-CGAL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "186bfba9b1635a28",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffd9a8d75169315a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f439730daf417785",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e0492b263c7717e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Definition",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "46ad8fcbe8611fed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 417.5
+  },
+  "right": {
+    "id": "10f566b662e5f72a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca457a4beb1bde90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24e2a4149f363bb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subjects/Quantum Error Correction/Classical and Quantum LDPC Codes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Classical and Quantum LDPC Codes"
+            }
+          },
+          {
+            "id": "10a330a020a0861c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homework/Quantum LDPC Code Homework 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quantum LDPC Code Homework 2"
+            }
+          },
+          {
+            "id": "cba9615ffe11e8d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37c073fba2f82da0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homework/Quantum LDPC Code Homework 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quantum LDPC Code Homework 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f439730daf417785",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "Wiki/Papers/Scalable Semidefinite Programming/Notes on Sketchy CGAL.md",
+    "PDFs/Pasted image 20250505134426.png",
+    "PDFs",
+    "Wiki/Papers/Scalable Semidefinite Programming/Sketchy-CGAL.pdf",
+    "Wiki/Papers/Scalable Semidefinite Programming",
+    "Inbox/CGAL.md",
+    "Inbox/Convex Optimization Notes.md",
+    "Wiki/Results/Geometry/Convex Geometry/Supremum of Linear Underestimates.md",
+    "Wiki/Results/Geometry/Convex Geometry/Convex Functions are Continuous.md",
+    "Wiki/Untitled",
+    "Wiki/Results/Algebra/Group-Theory/Uniqueness of Group Inverses.md",
+    "Wiki/Results/Geometry/Convex Geometry/Jensen's Inequality.md",
+    "Wiki/Definitions/Geometry/Convex Geometry/Convex Function.md",
+    "Wiki/Definitions/Geometry/Convex Geometry/Convex Combination.md",
+    "Wiki/Definitions/Geometry/Convex Geometry/Convex Set.md",
+    "Wiki/Results/Geometry/Convex Geometry",
+    "Wiki/Results/Geometry",
+    "Wiki/Definitions/Geometry/Convex Geometry/Convex Hull.md",
+    "Inbox",
+    "Wiki/Definitions/Geometry/Convex Geometry/Conic Combination.md",
+    "Wiki/Definitions/Algebra/Operator Algebra/Bounded Operators on a Hilbert Space.md",
+    "Wiki/Definitions/Algebra/Operator Algebra/Hilbert Space.md",
+    "Wiki/Definitions/Algebra/Operator Algebra/von Neumann Algebra.md",
+    "Wiki/Definitions/Geometry/Free Convex Geometry/Free Convex Combination.md",
+    "Wiki/Subjects/Algebra/Geometry/Free Semialgebraic Geometry.md",
+    "Wiki/Definitions/Geometry/Affine Geometry/Affine Combination.md",
+    "Wiki/Definitions/Geometry/Convex Geometry/Extreme Point.md",
+    "Wiki/Definitions/Geometry/Affine Geometry",
+    "Wiki/Definitions/Geometry/Free Convex Geometry",
+    "Wiki/Definitions/Geometry/Semialgebraic Geometry",
+    "Wiki/Subjects/Algebra/Geometry/Semialgebraic Geometry.md",
+    "Wiki/Subjects/Algebra/Geometry/Algebraic Geometry.md",
+    "Wiki/Definitions/Quantum/Trace Preserving Completely Positive Maps.md",
+    "Wiki/Definitions/Quantum/Trace Preserving Maps.md",
+    "Wiki/Definitions/Quantum/Trace Preserving Positive Map.md",
+    "Wiki/Subjects/Quantum/Quantum Information Theory.md",
+    "Old/PDFs/Pasted image 20250120202019.png",
+    "Old/PDFs/Pasted image 20241007221350.png",
+    "Old/PDFs/Pasted image 20230313215106.png",
+    "Old/PDFs/Pasted image 20230730095757.png",
+    "Old/PDFs/Pasted image 20230912133716.png",
+    "Untitled.canvas",
+    "Old/PDFs/Pasted image 20230911204747.png",
+    "Old/PDFs/Pasted image 20230414165111.png",
+    "Old/PDFs/Pasted image 20230414165100.png",
+    "Old/PDFs/Pasted image 20230316010002.png"
+  ]
+}
