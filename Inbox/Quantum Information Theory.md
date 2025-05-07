@@ -1,0 +1,1 @@
+#Definition *Purification* is just another word for Stinespring dilation applied for a *state*. In particular, in the case of Hilbert space every state can be written as the partial trace of a pure state.

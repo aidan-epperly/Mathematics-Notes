@@ -4,6 +4,10 @@ tags:
   - Quantum-Information-Theory
   - Quantum
   - Probability
+aliases:
+  - quantum information
+  - qit
+  - quantum information theory
 ---
 ## Summary
 

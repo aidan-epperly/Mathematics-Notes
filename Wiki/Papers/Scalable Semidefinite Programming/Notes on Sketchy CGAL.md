@@ -93,3 +93,8 @@ Using only our oracles, we can implement a Krylov subspace method, but tradition
 ![[Pasted image 20250505134426.png]]
 ## Sketchy CGAL - An Syzygy of Mathematical Nonsense Actually Working
 
+Note that in our iteration, the only thing we actually need from $X$ is the vector $\mathcal{A}X - b$. If we let $z_{t} = \mathcal{A}X_{t} - b$, then the eigenvalue computation only depends on $z_{t}$ and the update steps become
+$$
+z_{t} \gets (1 - \eta) z_{t} + \eta \mathcal{A} ^{*}(\alpha vv^{*}), \; y_{t} \gets y_{t} + \gamma(z_{t} - b).
+$$
+All we have to do now is track the rank-one updates.
