@@ -65,3 +65,30 @@ f_{\#}([x_{0},\dots,x_{n}]) = \begin{cases}
 
 \end{cases}
 $$
+*I missed some class, woops!* (Need to review prism operator)
+
+## Ext Functor
+
+Suppose $X$ is a topological space. 
+$$
+H_{n}(X) = H_{n}(\to C_{n}(X) \to C_{n+1}(X) \to)
+$$
+is the $n$th homology of $X$. We can also define 
+$$
+H^{n}(X) = H_{n}(\gets C_{n}^{*}(X) \gets C_{n+1}^{*}(X) \gets)
+$$
+the $n$th cohomology group of $X$ where 
+$$
+C^{*} = \mathrm{Hom}_{\mathbb{Z}}(C/\mathbb{Z}).
+$$
+#Example $H_{0}(\mathbb{R}\mathbb{P}^{2}) = \mathbb{Z}$,
+$H_{1}(\mathbb{R}\mathbb{P}^{2}) = \mathbb{Z}_{2}$,
+$H_{2}(\mathbb{R}\mathbb{P}^{2}) = 0$,
+$H^{0}(\mathbb{R}\mathbb{P}^{2}) = \mathbb{Z}$,
+$H^{1}(\mathbb{R}\mathbb{P}^{2}) = 0$,
+$H^{2}(\mathbb{R}\mathbb{P}^{2}) = \mathbb{Z}_{2}$.
+
+#Proposition Let $F$ be free and $p : M\to N$ surjective. If $f: F \to N$ is a module homomorphism then there is $g : F\to M$ with $f= p \circ g$.
+
+---
+
